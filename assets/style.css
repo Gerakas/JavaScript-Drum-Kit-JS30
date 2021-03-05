@@ -35,3 +35,15 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.key-char {
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: #fff;
+}
+
+.sound-desc {
+    text-transform: uppercase;
+    color: rgb(253, 206, 51);
+    font-family: sans-serif;
+}
